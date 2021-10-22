@@ -13,6 +13,7 @@ import java.util.concurrent.TimeUnit
 class ApplicationClass : Application() {
     val API_URL = "https://members.softsquared.com/"
 //
+    //
     // 테스트 서버 주소
     // val API_URL = "http://dev-api.test.com/"
 
